@@ -7,7 +7,7 @@ Clone or dl script
 
 Run npm install and make sure modules installed
 
-Create a file for you mnemonics\seeds called data.txt
+Create a file for your mnemonics\seeds called data.txt and place with the index.js
 
 Run script
 
